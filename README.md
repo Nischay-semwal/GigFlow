@@ -33,14 +33,14 @@ Tech Stack
 https://github.com/Nischay-semwal/GigFlow.git
 
 -->BACKEND SETUP
-cd backend
-npm install
-cp .env.example .env
-npm run dev
+->cd backend
+->npm install
+->cp .env.example .env
+->npm run dev
 
 -->FRONTEND SETUP
-cd frontend
-npm install
-cp .env.example .env
-npm run dev
+->cd frontend
+->npm install
+->cp .env.example .env
+->npm run dev
 
